@@ -1,11 +1,11 @@
 ---
 title: oauth2
 date: 2019-06-23 22:16:35
-tags: oauth2, django
-categories: oauth2
+tags: ['oauth2', 'django']
+categories: ['django', 'oauth2']
 ---
 
-# AllAuth
+# oAuth2
 
 ### 참고사이트
 
