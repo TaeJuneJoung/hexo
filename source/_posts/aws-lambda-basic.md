@@ -1,7 +1,7 @@
 ---
-title: AWS Lambda
-date: 2019-07-22 23:19:01
-tags: ['AWS Lambda']
+title: aws_lambda_basic
+date: 2019-07-22 23:23:52
+tags: ['AWS', lambda]
 categories: ['AWS']
 ---
 
@@ -28,7 +28,6 @@ CloudWatch Events를 만들어줘야 한다.
 기본적으로 GMT시간을 따르는데 한국시간과 9시간 차이나므로(GMT가 9시간 전)
 한국시간으로 10시를 해주기 위해서는 -9를 해준 1이 됨
 ```
-
 
 
 API Gateway를 이용해야할 때도 있으나, 현재 하는 부분에 대해서는 API Gateway가 불필요하여 사용해보지 않았음.
