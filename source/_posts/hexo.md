@@ -1,11 +1,10 @@
 ---
-title: hexo
+title: Hexo] Git Blog
 date: 2019-06-23 22:16:35
-tags: ['hexo']
-categories: ['hexo']
+tags: ['Hexo', 'Git Blog']
+categories: ['Hexo']
 ---
 
-# Hexo
 
 - 쉽고 빠른, 강력한 블로그 프레임워크
 - Markdown 지원

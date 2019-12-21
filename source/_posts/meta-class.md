@@ -1,11 +1,9 @@
 ---
-title: Meta Class
+title: Python] Meta Class
 date: 2019-08-08 23:39:15
 tags: ['Meta Class']
 categories: ['Python']
 ---
-
-# Meta Class
 
 클래스 -> 인스턴스 객체 생성
 

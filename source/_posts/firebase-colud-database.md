@@ -1,11 +1,9 @@
 ---
-title: Firebase Colud Database
+title: Firebase] Colud Database 복합색인
 date: 2019-08-08 23:34:32
 tags: ['복합색인', 'Cloud Database']
 categories: ['Firebase']
 ---
-
-# Firebase Cloud Database_복합색인
 
 cloud database에서 사용자의 id를 기반으로 데이터를 가져오고자 하였다.
 

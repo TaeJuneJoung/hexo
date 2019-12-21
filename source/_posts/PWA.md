@@ -1,11 +1,9 @@
 ---
-title: PWA
+title: JS] PWA
 date: 2019-07-27 23:45:12
-tags: ['PWA']
-categories: ['PWA']
+tags: ['JS', 'PWA']
+categories: ['JS']
 ---
-
-# PWA
 
 **Progressive Web App**
 

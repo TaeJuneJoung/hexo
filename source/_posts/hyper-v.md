@@ -1,11 +1,9 @@
 ---
-title: hyper-v
+title: Windows] Hyper-V
 date: 2019-08-25 00:27:28
-tags: ['Hyper-V']
-categories: ['VirtualBox']
+tags: ['Hyper-V', 'Windows']
+categories: ['Windows']
 ---
-
-# Hyper-V
 
 ### Window10에서 Virtual Box 구동시 Error
 

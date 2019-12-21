@@ -1,14 +1,13 @@
 ---
-title: flask-rest-api
+title: Flask] Rest Api
 date: 2019-09-23 21:06:57
-tags: ['Flask', 'RESTFUL', 'rest api']
-categories: ['Python', 'Flask']
+tags: ['Flask', 'REST API']
+categories: ['Flask']
 ---
 
-# Flask RESTFUL API
+## 목적
 
-​	Flask RESTFUl API를 만드는 방법에 대해서 학습해보고자 한다.
-
+​Flask REST API를 만드는 방법에 대해서 학습해보고자 한다.
 
 
 ## Install
@@ -18,9 +17,6 @@ pip install flask
 pip install flask_restful
 pip install flask-cors
 ```
-
-
-
 
 
 ## Flask Settings

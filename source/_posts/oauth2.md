@@ -1,19 +1,13 @@
 ---
-title: oauth2
+title: Django] OAuth2
 date: 2019-06-23 22:16:35
-tags: ['oauth2', 'django']
-categories: ['django', 'oauth2']
+tags: ['OAuth2', 'Django']
+categories: ['Django']
 ---
 
-# oAuth2
-
-### 참고사이트
-
-<https://django-allauth.readthedocs.io/en/latest/>
 
 
-
-### Install & Settings
+## Install & Settings
 
 **Install django-allauth**
 
@@ -187,7 +181,7 @@ pip install django-allauth
 
 
 
-### Kakao
+## Kakao
 
  Kakao Developers
 
@@ -198,7 +192,7 @@ pip install django-allauth
  <http://localhost:8000/accounts/kakao/login/callback/>
 
 
-### Image 부가설명
+## Image 부가설명
 
 카카오 개발자 사이트에 들어가서 사용할 `내 애플리케이션`을 먼저 생성
 
@@ -239,5 +233,10 @@ kakao_login을 누르면 아래와 같이 kakao 로그인 페이지가 나온다
 
 이로 인하여 kakao_oauth2_REST KEY방식을 완성하였다.
 
-### SourceCode
+## SourceCode
 <https://github.com/TaeJuneJoung/Python/tree/master/library/oauth_project>
+
+
+### 참고사이트
+
+<https://django-allauth.readthedocs.io/en/latest/>

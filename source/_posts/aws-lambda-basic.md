@@ -1,11 +1,9 @@
 ---
-title: aws_lambda_basic
+title: AWS] Lambda Intro
 date: 2019-07-22 23:23:52
-tags: ['AWS', lambda]
+tags: ['AWS', 'Lambda']
 categories: ['AWS']
 ---
-
-# AWS Lambda
 
 `aws lambda`에서 함수 생성
 

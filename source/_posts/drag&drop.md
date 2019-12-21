@@ -1,11 +1,9 @@
 ---
-title: drag&drop
+title: JS] Drag & Drop
 date: 2019-08-07 02:47:00
-tags: ['drag and drop', 'fake trello']
-categories: ['Java Script']
+tags: ['Drag&Drop']
+categories: ['JS']
 ---
-
-# Drag and Drop
 
 학습목표 :
 
